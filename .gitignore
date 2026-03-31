@@ -19,6 +19,3 @@ env/
 
 # Cache
 .cache/
-
-__pycache__/
-results.json
